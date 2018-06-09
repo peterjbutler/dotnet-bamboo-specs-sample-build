@@ -1,1 +1,3 @@
-# dotnet-bamboo-specs-sample-build
+# dotnet-bamboo-specs-sample-project
+
+A really simple dotnet project to test bamboo build plan configurations.
